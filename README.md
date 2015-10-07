@@ -11,7 +11,7 @@ safety quatitive evaluation, ship emission calculation and ship operation manage
 
 The software offers flexibility in several respects: the ship routes can be input from GUI manually or extracted from historical data automatically. Ship OD demand can be analysed automatically using historical AIS data or input by users. All types of ships can be simulated based on user defination. The naviagation behaviors are data driven models, which are calibrated using the advanced optimization techniques based on big data.
 
-This software is currently still under development and is <font color="red">not open source</font> at current stage. For more information about how to access this software, please contact **[Prof. Meng Qiang]**.
+This software is currently still under development and is **not open source** at current stage. For more information about how to access this software, please contact **[Prof. Meng Qiang]**.
 [Prof. Meng Qiang]: http://www.eng.nus.edu.sg/cee/people/ceemq/
 ![Screenshot](main_GUI.PNG)
 ![Screenshot](simulation_snap.PNG)
