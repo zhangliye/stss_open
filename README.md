@@ -2,12 +2,12 @@
 ====
 #### Ship traffic simulation system
 
-STSS is a ship traffic simulation system developed by the research group of **[Prof. Meng Qiang]** and Dr. Zhang Liye in **[Centre for Maritime Studies]** of National University of Singapore. It can be used for maritime traffic simulation,
+STSS is a ship traffic simulation system developed by the research group of **[Prof. Meng Qiang]** and **[Dr. Zhang Liye]** in **[Centre for Maritime Studies]** of National University of Singapore. It can be used for maritime traffic simulation,
 safety quatitive evaluation, ship emission calculation and ship operation management optimization.
 
 [Prof. Meng Qiang]: http://www.eng.nus.edu.sg/cee/people/ceemq/
+[Dr. Zhang Liye]: http://www.maritimestudies.nus.edu.sg/people.html
 [Centre for Maritime Studies]: http://www.maritimestudies.nus.edu.sg/
-
 
 The software offers flexibility in several respects: the ship routes can be input from GUI manually or extracted from historical data automatically. Ship OD demand can be analysed automatically using historical AIS data or input by users. All types of ships can be simulated based on user defination. The naviagation behaviors are data driven models, which are calibrated using the advanced optimization techniques based on big data.
 
