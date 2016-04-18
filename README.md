@@ -36,7 +36,7 @@ For full installation instructions, see the documentation linked above.
 
 ## Citing STSS
 
-If you use the nonlinear or conic optimization functionality of JuMP, please cite the following [preprint](http://arxiv.org/abs/1508.01982) which describes the methods implemented in JuMP. You may cite it as:
+You may cite it as:
 
     @article{ 
     title = {Big Data-Based Estimation for Ship Safety Distance Distribution in Port Waters},
