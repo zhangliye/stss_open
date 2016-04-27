@@ -20,7 +20,7 @@ This software is currently still under development and is ***not open source*** 
 ![Screenshot](main_GUI.PNG)
 ![Screenshot](simulation_snap.PNG)
 
-**Latest Release**: 0.6.0 
+**Latest Release**: 0.6.1 
   * [Documentation](https://github.com/zhangliye/stss/blob/master/doc)
   * [Examples](https://github.com/zhangliye/stss/blob/master/doc)
   * ![Screenshot](release.PNG)
