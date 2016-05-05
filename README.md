@@ -4,10 +4,12 @@
 
 STSS is a ship traffic simulation system developed by the research group of **[Prof. Meng Qiang]** and **[Dr. Zhang Liye]** in **[Centre for Maritime Studies]** of National University of Singapore. It can be used for maritime traffic simulation,
 safety quatitive evaluation, ship emission calculation and ship operation management optimization.
+(The website of STSS is **[http://stss-maritime.github.io/]**)
 
 [Prof. Meng Qiang]: http://www.eng.nus.edu.sg/cee/people/ceemq/
 [Dr. Zhang Liye]: http://www.maritimestudies.nus.edu.sg/people.html
 [Centre for Maritime Studies]: http://www.maritimestudies.nus.edu.sg/
+[http://stss-maritime.github.io/]: http://stss-maritime.github.io/
 
 The software offers flexibility in several respects: the ship routes can be input from GUI manually or extracted from historical data automatically. Ship OD demand can be analysed automatically using historical AIS data or input by users. All types of ships can be simulated based on user defination. The naviagation behaviors are data driven models, which are calibrated using the advanced optimization techniques based on big data.
 
@@ -41,7 +43,7 @@ You may cite it as:
 
     @article{ 
     title = {Big Data-Based Estimation for Ship Safety Distance Distribution in Port Waters},
-    author = {Liye Zhang, Huang Wang and Qiang Meng},
+    author = {Liye Zhang, Hua Wang and Qiang Meng},
     journal = {Transportation Research Record},
     year = {2015},
     url = {http://trrjournalonline.trb.org/doi/abs/10.3141/2479-03?ai=1gvoi&mi=3ricys&af=R}
