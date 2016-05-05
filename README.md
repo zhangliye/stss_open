@@ -4,6 +4,7 @@
 
 STSS is a ship traffic simulation system developed by the research group of **[Prof. Meng Qiang]** and **[Dr. Zhang Liye]** in **[Centre for Maritime Studies]** of National University of Singapore. It can be used for maritime traffic simulation,
 safety quatitive evaluation, ship emission calculation and ship operation management optimization.
+
 (The website of STSS is **[http://stss-maritime.github.io/]**)
 
 [Prof. Meng Qiang]: http://www.eng.nus.edu.sg/cee/people/ceemq/
